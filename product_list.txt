@@ -1,0 +1,73 @@
+Bamazon Products {
+	product 1{
+	item_id: 1,
+	product_name: "arm-extender",
+	department_name: "home-goods",
+	price: 15,
+	stock_quantity: 100}
+
+	product 2{
+	item_id: 2,
+	product_name: "back-scratcher",
+	department_name: "home-goods",
+	price: 10,
+	stock_quantity: 30} 
+
+product 3{
+	item_id: 3,
+	product_name: "camera",
+	department_name: "home-goods",
+	price: 400,
+	stock_quantity: 100} 
+
+product 4{
+	item_id: 4,
+	product_name: "action-figure",
+	department_name: "toys",
+	price: 15,
+	stock_quantity: 100} 
+
+product 5{
+	item_id: 5,
+	product_name: "toilet-cleaner",
+	department_name: "home-goods",
+	price: 25,
+	stock_quantity: 27} 
+
+product 6{
+	item_id: 6,
+	product_name: "lazer-pointer",
+	department_name: "school",
+	price: 20,
+	stock_quantity: 80} 
+
+product 7{
+	item_id: 7,
+	product_name: "energy-converter",
+	department_name: "school",
+	price: 500000,
+	stock_quantity: 100} 
+
+product 8{
+	item_id: 8,
+	product_name: "gold-finder",
+	department_name: "hardware",
+	price: 100,
+	stock_quantity: 1} 
+
+product 9{
+	item_id: 9,
+	product_name: "hamburgerhelper",
+	department_name: "food",
+	price: 5,
+	stock_quantity: 5} 
+
+product 10{
+	item_id: 10,
+	product_name: "butt-butt",
+	department_name: "bathroom",
+	price: 15,
+	stock_quantity: 50} 
+
+}
+
